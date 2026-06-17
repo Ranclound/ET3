@@ -1,7 +1,6 @@
-import { NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabaseClient';
-import { verifyAdminToken } from '@/lib/adminAuth';
-import { SEED_COURSES } from '@/components/seedData';
+import { supabase } from '../../lib/supabaseClient';
+import { verifyAdminToken } from '../../lib/adminAuth';
+import { SEED_COURSES } from '../../components/seedData';
 
 const KEY = 'courses';
 
