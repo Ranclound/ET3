@@ -297,7 +297,7 @@ export default function TrainingIndex() {
             <div className="border-l pl-4" style={{ borderColor: '#E0DCC8' }}>
               <h1 className="font-display text-xl sm:text-3xl uppercase tracking-tight leading-tight">Training Index</h1>
               <p className="font-body text-sm mt-1" style={{ color: '#6B6B6B' }}>
-                External courses for KSEA staff — rate and review what you've taken
+                External courses for NESEA staff — rate and review what you've taken
               </p>
             </div>
           </div>
