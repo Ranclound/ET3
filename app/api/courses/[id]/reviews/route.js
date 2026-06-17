@@ -1,6 +1,6 @@
-import { NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabaseClient';
-import { verifyAdminToken } from '@/lib/adminAuth';
+import { NextResponse } from '../../../lib/supabaseClient';
+import { supabase } from '../../../lib/supabaseClient';
+import { verifyAdminToken } from '../../../lib/supabaseClient';
 
 const KEY = 'courses';
 const MAX_STRING = 2000;
