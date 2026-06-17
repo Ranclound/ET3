@@ -1,4 +1,4 @@
-import { NextResponse } from '../../lib/adminAuth';
+import { NextResponse } from 'next/server';
 import { createAdminToken } from '../../lib/adminAuth';
 
 // Very basic in-memory rate limiting per server instance: slows down PIN brute-forcing.
