@@ -1,6 +1,6 @@
-# KSEA Training Index
+# NESEA Training Index
 
-Internal web app listing external training courses for KSEA staff. Anyone can
+Internal web app listing external training courses for NESEA staff. Anyone can
 browse and leave a star rating + comment; only admins (PIN-gated) can add,
 edit, or remove courses and delete inappropriate reviews.
 
